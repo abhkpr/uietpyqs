@@ -45,5 +45,4 @@ So for the example taken above the pdf file name would be **23111cseai.pdf**
 
 ### Notice:- These steps written for specific example(1st year CSE-AI student, who want to upload his 1st mid Que. paper of 1st sem), So make appropriate changes according to your condition.
 
-# I am looking forward for your contribution.
 
